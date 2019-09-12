@@ -33,6 +33,7 @@ import com.parse.SaveCallback;
 import java.io.File;
 import java.util.List;
 
+import static android.app.Activity.RESULT_OK;
 import static android.provider.MediaStore.ACTION_IMAGE_CAPTURE;
 import static android.provider.MediaStore.EXTRA_OUTPUT;
 
